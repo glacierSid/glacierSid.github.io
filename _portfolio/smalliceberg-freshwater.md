@@ -4,6 +4,10 @@ excerpt: "Icebergs represent nearly half of the mass loss from the Greenland Ice
 collection: portfolio
 ---
 ![freshwater_lifespan_estimate](https://raw.githubusercontent.com/glacierSid/imgs/main/nature_comm_small_iceberg_freshwater.jpeg)
+
+## Collaborators
+Soroush Rezvanbehbahani, Leigh A. Stearns, Ramtin Keramati, C. J. van der Veen
+
 ## Publications
 Rezvanbehbahani, S., Stearns, L. A., Keramati, R., Shankar, S., & van der Veen, C. J. (2020). Significant contribution of small icebergs to the freshwater budget in Greenland fjords. Communications earth & environment, 1(1), 1-7.
 <i>Nature Communications earth & environment</i> <a href='https://doi.org/10.1038/s43247-020-00032-3'>doi:10.1038/s43247-020-00032-3</a>
