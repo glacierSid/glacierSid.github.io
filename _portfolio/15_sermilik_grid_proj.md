@@ -14,7 +14,7 @@ In order to improve the understanding, I will need to perform the following task
 collection: portfolio
 ---
 
-Icebergs represent nearly half of the mass loss from the Greenland Ice Sheet and provide a distributed source of freshwater along fjords which can alter fjord circulation, nutrient levels, and ultimately the Meridional Overturning Circulation. Here I present analyses of iceberg percentage coverage in 2km x 2km grid cells, thereby displaying the density of icebergs in Sermilik Fjord, SE Greenland. <br/>
+Icebergs represent nearly half of the mass loss from the Greenland Ice Sheet and provide a distributed source of freshwater along fjords which can alter fjord circulation, nutrient levels, and ultimately the Meridional Overturning Circulation. Here I present analysis of iceberg percentage coverage in 2km x 2km grid cells, thereby displaying the density of icebergs in Sermilik Fjord, SE Greenland. <br/>
 
 # Libraries
 
