@@ -980,7 +980,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_28_0.png)
 
 
 ## Iceberg size distribution in Sermilik Fjord, SE Greenland
@@ -1004,7 +1004,7 @@ ax_cbar = fig.colorbar(cbar1, ax=ax2)
 ```
 
 
-![png](output_30_0.png)
+![png](https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_30_0.png)
 
 
 ## Iceberg Frequency Size distribution
@@ -1029,7 +1029,7 @@ ax.set_ylabel('Frequency',fontsize=14)
 
 
 
-![png](output_32_1.png)
+![png](https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_32_1.png)
 
 
 ### Grids representing Sermilik Fjord
@@ -1705,7 +1705,7 @@ ax_cbar = fig.colorbar(cbar1, ax=ax2)
 ```
 
 
-![png](output_46_0.png)
+![png](https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_46_0.png)
 
 
 
@@ -3412,7 +3412,7 @@ ax_cbar = fig.colorbar(cbar, ax=ax2)
 ```
 
 
-![png](output_65_0.png)
+![png](https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_65_0.png)
 
 
 # References
