@@ -987,9 +987,9 @@ ax2.legend(handles=[lg2])
 
 plt.show()
 ```
-
+---
 <img src='https://github.com/glacierSid/glacierSid.github.io/blob/master/_portfolio/output_28_0.png>"
-
+---
 
 ## Iceberg size distribution in Sermilik Fjord, SE Greenland
 
