@@ -1,7 +1,6 @@
 ---
-title: "Google Scholar"
+title: "Complete list of publications can be accessed here"
 collection: publications
-# permalink: 'https://scholar.google.com/citations?user=fLWv-VgAAAAJ&hl=en&oi=ao'
-excerpt: 'Complete list of publications can be accessed on this link'
+date: 2021-04-08
 paperurl: 'https://scholar.google.com/citations?user=fLWv-VgAAAAJ&hl=en&oi=ao'
 ---
