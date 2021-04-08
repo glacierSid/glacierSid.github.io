@@ -10,7 +10,7 @@ In order to improve the understanding, I will need to perform the following task
     Determine the frequency size distribution of icebergs in Sermilik Fjord.
     Calculate percentage ice-cover within 2km x 2km grid cells in Sermilik Fjord.
 
- <br/><img src='https://raw.githubusercontent.com/glacierSid/imgs/main/peronalproject_2.png'>
+ <br/><img src='https://raw.githubusercontent.com/glacierSid/imgs/main/peronalproject_2.png'>"
 collection: portfolio
 ---
 
