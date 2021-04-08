@@ -1,0 +1,10 @@
+---
+title: "Linking Calving Behavior and Iceberg Distributions in Greenland Fjords"
+collection: publications
+# permalink: /publication/2017_AGU_LinkingCalvingBehavior
+excerpt: 'Iceberg calving is an important mechanism of mass loss for the Greenland Ice Sheet, and a key source of freshwater in Greenland fjords. However, the glacier terminus often serves as the discipline boundary between glaciologists and oceanographers, limiting our understanding of how calving behavior (size, location, and timing of calving events) and iceberg distributions in fjords are connected. For example, the size of icebergs that break off glacier termini are dictated by geometry, ice velocity, submarine melt rates, and buoyancy conditions. Iceberg size also dictates freshwater contribution, potentially impacting fjord circulation and sea ice formation. Here, we present an analysis of calving behavior and iceberg distribution for a select number of glacier-fjord systems in Greenland. We use an iterative CFAR (Constant False Alarm Rate) algorithm to automatically detect terminus boundaries and icebergs using Sentinel-1 imagery (from 2015 to present). The high temporal (12-day repeat) and spatial (10 m) resolution Sentinel-1 imagery, combined with publicly available ice velocity data (roughly every 16-days), allows us to simultaneously assess calving behavior and iceberg distribution. Where data are available, we extend our records back in time to investigate long-term controls on calving behavior. The results are used to estimate the contribution of solid ice to the oceans for select glaciers, understand the calving style of these glaciers, and quantify temporal patterns of iceberg distribution. '
+date: 2017-12-11
+venue: 'American Geophysical Union'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2017AGUFM.C12A..03S/abstract'
+citation: ' Stearns, L. A.; Shankar, S.; van der Veen, C. J.; Rezvanbehbahani, S.; Sutherland, D.; Catania, G. A.; Straneo, F.(2017). "Linking Calving Behavior and Iceberg Distributions in Greenland Fjords" American Geophysical Union.'
+---
