@@ -988,7 +988,7 @@ ax2.legend(handles=[lg2])
 plt.show()
 ```
 ---
-<img src='https://github.com/glacierSid/glacierSid.github.io/blob/master/_portfolio/output_28_0.png>"
+<img src='https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio//output_28_0.png>"
 ---
 
 ## Iceberg size distribution in Sermilik Fjord, SE Greenland
@@ -1011,7 +1011,7 @@ ax_cbar = fig.colorbar(cbar1, ax=ax2)
 #ctx.add_basemap(ax,url=ctx.providers.Stamen.TonerLite)
 ```
 
-<img src='https://github.com/glacierSid/glacierSid.github.io/blob/master/_portfolio/output_30_0.png>"
+<img src='https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_30_0.png>"
 
 
 ## Iceberg Frequency Size distribution
@@ -1035,7 +1035,7 @@ ax.set_ylabel('Frequency',fontsize=14)
 
 
 
-<img src='https://github.com/glacierSid/glacierSid.github.io/blob/master/_portfolio/output_32_1.png>"
+<img src='https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_32_1.png>"
 
 
 ### Grids representing Sermilik Fjord
@@ -1710,7 +1710,7 @@ ax_cbar = fig.colorbar(cbar1, ax=ax2)
 
 ```
 
-<img src='https://github.com/glacierSid/glacierSid.github.io/blob/master/_portfolio/output_46_0.png>"
+<img src='https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_46_0.png>"
 
 
 
@@ -3416,7 +3416,7 @@ ax_cbar = fig.colorbar(cbar, ax=ax2)
 #ctx.add_basemap(ax2,url=ctx.providers.Stamen.TonerLite)
 ```
 
-<img src='https://github.com/glacierSid/glacierSid.github.io/blob/master/_portfolio/output_65_0.png>"
+<img src='https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/output_65_0.png>"
 
 
 # References
