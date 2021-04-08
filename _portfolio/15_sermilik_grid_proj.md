@@ -15,5 +15,5 @@ collection: portfolio
 ---
 
 Icebergs represent nearly half of the mass loss from the Greenland Ice Sheet and provide a distributed source of freshwater along fjords which can alter fjord circulation, nutrient levels, and ultimately the Meridional Overturning Circulation. Here we present analyses of high resolution optical satellite imagery using convolutional neural networks to accurately delineate iceberg edges in two East Greenland fjords. We find that a significant portion of icebergs in fjords are comprised of small icebergs that were not detected in previously-available coarser resolution satellite images. We show that the preponderance of small icebergs results in high freshwater delivery, as well as a short life span of icebergs in fjords. <br/>
-![Percentage iceberg coverage Sermilik Fjord, SE Greenland](https://raw.githubusercontent.com/glacierSid/glacierSid.github.io/master/_portfolio/12_Shankar_FinalProject_Fall2020.md)
+![Percentage iceberg coverage Sermilik Fjord, SE Greenland](https://nbviewer.jupyter.org/github/glacierSid/glacierSid.github.io/blob/master/_portfolio/0_finalProject_Fall2020.html)
 
