@@ -6,5 +6,5 @@ excerpt: 'Teaching about climate and climate change is conceptually challenging.
 date: 2017-12-10
 venue: 'American Geophysical Union'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2017AGUFMED31B0283S/abstract'
-citation: 'Stearns, L. A., Rezvanbehbahani, S., **Shankar, S.**(2017). "Interactive Ice Sheet Flowline Model for High School and College Students" American Geophysical Union.'
+citation: 'Stearns, L. A., Rezvanbehbahani, S., Shankar, S.(2017). "Interactive Ice Sheet Flowline Model for High School and College Students" American Geophysical Union.'
 ---
