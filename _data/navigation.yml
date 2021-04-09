@@ -1,10 +1,11 @@
 # main links links
 main:
-  - title: "Journal Articles"
+  - title: "Publications"
+    - title: "Journal Articles"
     url: /publications/
 
-  - title: "Conference Proceedings"
-    url: /publications/    
+  #- title: "Conference Proceedings"
+  #  url: /publications/    
 
   #- title: "Teaching"
   # url: /teaching/    
