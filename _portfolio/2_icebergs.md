@@ -1,6 +1,6 @@
 ---
 title: "Iceberg Distribution for Greenland Ice Sheet"
-excerpt: "Quantifying and visualizing the changes of iceberg distribution around the Greenland Ice Sheet.<br/><img src='https://raw.githubusercontent.com/glacierSid/imgs/main/gris_roi_v3_gxvseb.jpg'>"
+excerpt: "Quantifying and visualizing the changes of iceberg distribution around the Greenland Ice Sheet.<br/><img src='https://raw.githubusercontent.com/glacierSid/imgs/main/gris_roi_v3_gxvseb_thumbnails.jpg'>"
 collection: portfolio
 ---
 
@@ -20,8 +20,9 @@ large variability in iceberg size distribution. And, in parts of the ice sheet, 
 transport of icebergs of all sizes; however, this observation is not universal around the ice sheet. Distinct patterns in
 calving and iceberg transport can be recognized given our robust and dense dataset of iceberg distributions
 
+![Sermilik_ROI](https://raw.githubusercontent.com/glacierSid/imgs/cbc76b6e64163c1cefeb150866d589ea0852b069/sermilik_roi_joined.png)
 ![Sermilik_timeseries](https://raw.githubusercontent.com/glacierSid/imgs/main/sermilik_timeseries_trendOnly_may17-dec2020_v3_hgldk1.png)
-![Jakobshavn timeseries](https://raw.githubusercontent.com/glacierSid/imgs/main/jkb_timeseries_trendOnly_jul17-dec2020_v3_aajtat.png)
+
 ## Collaborators
 Leigh A. Stearns, Isabella M. Bray, C. J. van der Veen
 
