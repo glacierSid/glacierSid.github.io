@@ -87,7 +87,6 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "shankarsiddharth@outlook.com"
-  googlescholar    : "https://scholar.google.com/citations?user=fLWv-VgAAAAJ&hl=en&oi=ao"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : 
@@ -96,6 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  googlescholar    : "https://scholar.google.com/citations?user=fLWv-VgAAAAJ&hl=en&oi=ao"
   github           : "glaciersid"
   google_plus      :
   keybase          :
