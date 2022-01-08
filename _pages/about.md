@@ -12,4 +12,4 @@ I am a PhD Candidate at The University of Kansas, studying Geology, where I focu
 
 My research dives into climate change by studying calving processes on the Greenland Ice Sheet using satellite imagery, machine learning, and image processing. I work on large scale geospatial datasets, with a focus on using open-source technologies and automation.
 
-Along with my work, I also enjoy painting (mainly abstract expressionism, analytical cubism, impressionism), and photography.
+Along with my work, I also enjoy painting (mainly abstract expressionism, analytical cubism, and impressionism), and photography.
