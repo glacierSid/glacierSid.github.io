@@ -23,6 +23,15 @@ calving and iceberg transport can be recognized given our robust and dense datas
 ![Sermilik_ROI](https://raw.githubusercontent.com/glacierSid/imgs/cbc76b6e64163c1cefeb150866d589ea0852b069/sermilik_roi_joined.png)
 ![Sermilik_timeseries](https://raw.githubusercontent.com/glacierSid/imgs/main/sermilik_timeseries_trendOnly_may17-dec2020_v3_hgldk1.png)
 
+## Publication date 
+2021/12/15
+
+## Journal
+AGU Fall Meeting 2021
+
+## Publisher
+AGU
+
 ## Collaborators
 Leigh A. Stearns, Isabella M. Bray, C. J. van der Veen
 
