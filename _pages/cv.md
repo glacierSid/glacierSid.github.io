@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B-Tech. in Computer Science & Engineering, UPTU, 2009
+* M.S. in Computer Science, Illinois Institute of Technology, 2012
+* Ph.D in Geology, University of Kansas, Spring 2022 (expected)
 
 Work experience
 ======
