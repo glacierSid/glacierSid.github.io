@@ -5,6 +5,23 @@
 /*
    Default button
    ========================================================================== */
+/* research page buttons */
+// &--research {
+//   display: inline-block;
+//   margin-bottom: 0.25em;
+//   padding: 0.125em 0.25em;
+//   color: $link-color;
+//   text-align: center;
+//   text-decoration: none !important;
+//   border: 1px solid;
+//   border-color: #297373;
+//   border-radius: 0.25em;
+//   cursor: pointer;
+
+//   &:hover {
+//     color: #fff;
+//     background-color: $link-color !important;
+//   }
 
 .btn {
   /* default button */
@@ -18,12 +35,12 @@
   text-align: center;
   text-decoration: none;
   background-color: $primary-color;
-  border: 0 !important;
+  border: 1px solid !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(white, #000, 90%);
   }
 
   .icon {
