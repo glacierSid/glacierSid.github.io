@@ -1,6 +1,6 @@
 ---
 title: "Iceberg Distribution along Greenland Fjords"
-excerpt: "Quantifying and visualizing the changes of iceberg distribution around the Greenland Ice Sheet.<br/><img src='https://raw.githubusercontent.com/glacierSid/imgs/main/gris_roi_v3_gxvseb_thumbnails.jpg'>"
+excerpt: "Quantifying and visualizing the changes of iceberg distribution in fjords around the Greenland Ice Sheet.<br/><img src='https://raw.githubusercontent.com/glacierSid/imgs/main/gris_roi_v3_gxvseb_thumbnails.jpg'>"
 collection: portfolio
 ---
 
