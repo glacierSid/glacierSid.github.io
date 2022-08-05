@@ -318,4 +318,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-sunrise
+theme: jekyll-theme-dark
