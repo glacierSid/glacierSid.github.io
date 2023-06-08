@@ -45,8 +45,8 @@ environment, 1(1), 1-7.
 - Implemented the prediction workflow for detecting the icebergs.
 - Contributed to analyzing the results of iceberg estimates.
 
-### NASA Interdisciplinary Sciences (IDS): Fjord Systems, Marine Mammals, and Subsistence Hunting
-in East Greenland 2021 – present
+
+### NASA Interdisciplinary Sciences (IDS): Fjord Systems, Marine Mammals, and Subsistence Hunting in East Greenland 2021 – present
 - Built an automated, open-source, machine learning model that identifies icebergs in sea-ice, melange,
 mixed-media conditions in Sentinel-1 SAR imagery for East Greenland.
 - Implementing sea-ice labeled training data to differentiate sea-ice types against icebergs.
