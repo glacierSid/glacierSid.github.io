@@ -26,6 +26,7 @@ geolocation of icebergs and theirrespective size, significantly.
 - Automated and scaled pre-processing of more than 6000 Sentinel-1 images.
 - Improved processing time by 90%, through automation and parallelization of 24 terabytes of radar imagery
 covering Greenland, creating a high spatial and temporal resolution dataset.
+
 ### Deep Learning Approach to Iceberg Tracking 2021 – present
 Stearns, L., Shankar, S., Shahin, M., and van der Veen, C., “Distribution and motion of icebergs in a proglacial
 melange: weekly observations from 2020 at Helheim Glacier, East Greenland”, vol. 2021, 2021.
@@ -35,6 +36,7 @@ platform.
 SAR images.
 - Used iceberg trained YOLOv4 weights to DeepSORT for tracking icebergs in successive Sentinel-1 imagery
 in melange.
+
 ### NASA Pilot Study: Significant contribution of small icebergs to the freshwater budget in Greenland fjords 2019 – 2020
 Rezvanbehbahani, S., Stearns, L. A., Keramati, R., Shankar, S., and van der Veen, C. J. (2020). Significant
 contribution of small icebergs to the freshwater budget in Greenland fjords. Nature Communications earth
@@ -42,12 +44,15 @@ environment, 1(1), 1-7.
 - Deep learning model, UNet for detection and segmentation of icebergs in high resolution PLANET imagery.
 - Implemented the prediction workflow for detecting the icebergs.
 - Contributed to analyzing the results of iceberg estimates.
+
 ### NASA Interdisciplinary Sciences (IDS): Fjord Systems, Marine Mammals, and Subsistence Hunting
 in East Greenland 2021 – present
 - Built an automated, open-source, machine learning model that identifies icebergs in sea-ice, melange,
 mixed-media conditions in Sentinel-1 SAR imagery for East Greenland.
 - Implementing sea-ice labeled training data to differentiate sea-ice types against icebergs.
 - Produced bi-monthly iceberg distribution results in 52 fjords of East Greenland for 5 years.
+
+
 ### Mapping icebergs in m´elange using ICEYE SAR imagery 2021 – present
 Harcourt, W., Stearns, L., Shahin, M., and Shankar, S., “Mapping icebergs in melange using ICEYE imagery”,
 vol. 2021, 2021.
