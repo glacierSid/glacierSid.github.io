@@ -31,8 +31,7 @@ platform.
 SAR images.
 - Used iceberg trained YOLOv4 weights to DeepSORT for tracking icebergs in successive Sentinel-1 imagery
 in melange.
-### NASA Pilot Study: Significant contribution of small icebergs to the freshwater budget in Greenland
-fjords 2019 – 2020
+### NASA Pilot Study: Significant contribution of small icebergs to the freshwater budget in Greenland fjords 2019 – 2020
 Rezvanbehbahani, S., Stearns, L. A., Keramati, R., Shankar, S., and van der Veen, C. J. (2020). Significant
 contribution of small icebergs to the freshwater budget in Greenland fjords. Nature Communications earth
 environment, 1(1), 1-7.
