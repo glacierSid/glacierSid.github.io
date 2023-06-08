@@ -1,4 +1,8 @@
-Here is a list of projects that I have worked on with some of them shown in more details in the links below:
+---
+title: "List of projects"
+excerpt: "Here is a list of projects that I have worked on with some of them shown in more details in the links below:"
+collection: portfolio
+---
 
 ### Segment Anything in Glaciology: An initial study implementing the Segment Anything Model (SAM)
 Shankar, S., Stearns, L. A., & Veen, C. J. van der. (2023). Segment Anything in Glaciology: An initial study implementing
