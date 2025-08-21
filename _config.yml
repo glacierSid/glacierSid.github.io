@@ -89,13 +89,13 @@ analytics:
 author:
   name             : "Siddharth Shankar"
   avatar           : "profile_pic10.jpg"
-  bio              : "Postdoctoral Researcher at University of Kansas. I am passionate about remote sensing, climate research, computer vision, machine learning, and deep learning" 
+  bio              : "Senior Data Scientist" 
   #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "sid.shank07@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://icebergsid.ucraft.site/"
+  #uri              : "https://icebergsid.ucraft.site/"
   bitbucket        : 
   codepen          :
   dribbble         :
